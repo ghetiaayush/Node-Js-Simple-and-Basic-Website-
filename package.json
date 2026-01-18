@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ghetiaayush/Node-JS-tutorial.git"
+    "url": "git+https://github.com/ghetiaayush/Node-Js-Simple-and-Basic-Website-.git"
   },
   "author": "ayush ghetia",
   "type": "commonjs",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ghetiaayush/Node-JS-tutorial/issues"
+    "url": "https://github.com/ghetiaayush/Node-Js-Simple-and-Basic-Website-/issues"
   },
-  "homepage": "https://github.com/ghetiaayush/Node-JS-tutorial#readme",
+  "homepage": "https://github.com/ghetiaayush/Node-Js-Simple-and-Basic-Website-#readme",
   "dependencies": {
     "colors": "^1.4.0"
   }
