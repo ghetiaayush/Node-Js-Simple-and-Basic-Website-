@@ -1,0 +1,24 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "node js tutorial in hindi 2025",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghetiaayush/Node-JS-tutorial.git"
+  },
+  "author": "ayush ghetia",
+  "type": "commonjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghetiaayush/Node-JS-tutorial/issues"
+  },
+  "homepage": "https://github.com/ghetiaayush/Node-JS-tutorial#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
